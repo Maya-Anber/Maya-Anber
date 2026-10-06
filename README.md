@@ -85,27 +85,32 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
 
 <table>
   <tr>
-    <td width="50%">
+    <!-- <td width="50%">
       <b>🧠 WinPulse</b><br/>
       My graduation project & largest system: a multimodal AI fitness coach combining computer vision, wearable EMG/IMU sensors, physiological analysis, real-time coaching, a mobile app, backend, custom firmware & PCB design.
-    </td>
+    </td> -->
     <td width="50%">
       <b>🛍️ NovaTech AI Agent</b><br/>
       Full-stack e-commerce sales & support agent (Flask + LangGraph) with intent routing, RAG, 4 DB-writing tools, human-escalation queue, admin console & Messenger channel — backed by 153 offline tests.<br/>
       <a href="https://github.com/Maya-Anber/Full-stack-LangGraph-agent-project-planning">repo →</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+        <td width="50%">
       <b>🗺️ Science Festivity 2026 Guide Map</b><br/>
       Real-time, offline-capable PWA showing live booth availability at the Bibliotheca Alexandrina festival.<br/>
       <a href="https://science-festivity-2026-guide-map.vercel.app/">live site →</a>
     </td>
+  </tr>
+  <!-- <tr>
     <td width="50%">
+      <b>🗺️ Science Festivity 2026 Guide Map</b><br/>
+      Real-time, offline-capable PWA showing live booth availability at the Bibliotheca Alexandrina festival.<br/>
+      <a href="https://science-festivity-2026-guide-map.vercel.app/">live site →</a>
+    </td> -->
+    <!-- <td width="50%">
       <b>💼 Career RAG</b><br/>
       AI career copilot: feed it a job posting, it retrieves facts from a personal knowledge base of CVs & projects, then generates a tailored compiled CV + cover letter — grounded only in things that are actually true about you.
-    </td>
-  </tr>
+    </td> -->
+  <!-- </tr> -->
   <tr>
     <td width="50%">
       <b>📡 Radar System</b><br/>
