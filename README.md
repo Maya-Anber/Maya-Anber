@@ -162,9 +162,9 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
   <!-- <a href="mailto:maya.anber7@gmail.com"><img src="https://img.shields.io/badge/Email-maya.anber7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maya-Anber&color=ff69b4&label=profile+views" alt="Profile views" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by!+%F0%9F%92%96;Keep+building+cool+things+%E2%9C%A8" alt="Thanks for stopping by" />
