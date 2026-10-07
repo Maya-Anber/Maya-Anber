@@ -127,16 +127,15 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
 
 <sub></sub>Plus 40+ more repos — ML notebooks, computer vision, big data pipelines, IoT firmware, quantum computing &amp; more in the <a href="https://github.com/Maya-Anber?tab=repositories">repositories tab →</sub>
 
-## [📊 GitHub stats](https://github.com/Maya-Anber?tab=repositories)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maya-Anber&show_icons=true&theme=radical&hide_border=true&border_radius=16" alt="Maya's GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=Maya-Anber&hide_border=true&border_radius=16&theme=radical" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maya-Anber&layout=compact&theme=radical&hide_border=true&border_radius=16" alt="Top languages" />
-</p>
+</p> -->
 
 ## 📜 Certifications &amp; awards
 
