@@ -94,7 +94,7 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maya-Anber&layout=compact&theme=radical&hide_border=true&border_radius=16" alt="Top languages" />
 </p> -->
 
-## [📜 Certifications &amp; awards](https://github.com/Maya-Anber?tab=repositories)
+## 📜 Certifications 
 
 - [🐧 **Linux Administration (ITI Alexandria)**](https://drive.google.com/file/d/1HoJlV86X--dinOPzJOaaNWw0PeEidQJc/view) - [⚛️ **Quantum Computing** (QWorld × AIU × AleQCG)](https://drive.google.com/file/d/1TVRJOQoN2V6xDkbKqdMs67DCkH8Zl77a/view) - [📡 **Internet of Things** (FCDS)](https://github.com/Maya-Anber?tab=repositories)
 
