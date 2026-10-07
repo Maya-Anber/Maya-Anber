@@ -125,7 +125,7 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
   </tr>
 </table>
 
-<sub></sub>Plus 40+ more repos — ML notebooks, computer vision, big data pipelines, IoT firmware, quantum computing &amp; more in the <a href="https://github.com/Maya-Anber?tab=repositories">repositories tab →</sub>
+<sub></sub>Plus 40+ more repos — ML notebooks, big data pipelines, IoT firmware, quantum computing &amp; more in the <a href="https://github.com/Maya-Anber?tab=repositories">repositories tab →</sub>
 
 
 <!-- <p align="center">
