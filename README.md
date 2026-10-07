@@ -28,58 +28,7 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
 
 <sub> Machine Learning · Deep Learning · AI · Data Mining · Data Structures & Algorithms · Databases · Operating Systems · Computer Networks · Software Engineering · Statistics & Probability · Big Data · Data Visualization · Web & Mobile Development · IoT</sub>
 
-## 🛠️ Skills
 
-**Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,ts,js,dart,php,r" alt="Python, Java, C, C++, TypeScript, JavaScript, Dart, PHP, R" />
-</p>
-
-**AI / Machine Learning**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" alt="TensorFlow, PyTorch, OpenCV, Anaconda" />
-</p>
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-ffffff?style=flat-square)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square)
-![Explainable AI](https://img.shields.io/badge/Explainable_AI-9b59b6?style=flat-square)
-
-**Data Science**
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistical_Analysis-16a085?style=flat-square)
-
-**Web & Mobile**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,flutter,kotlin" alt="HTML, CSS, Bootstrap, React, Node.js, Flutter, Kotlin" />
-</p>
-
-**Databases**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,redis,sqlite" alt="PostgreSQL, MySQL, MongoDB, Firebase, Redis, SQLite" />
-</p>
-
-**DevOps, Embedded & Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vscode,figma,vercel" alt="Linux, Docker, Git, GitHub, Bash, VS Code, Figma, Vercel" />
-</p>
-
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square)
-![PCB%20Design](https://img.shields.io/badge/PCB_Design-E74C3C?style=flat-square)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square)
 
 ## 🚀 Featured projects
 
