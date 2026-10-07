@@ -28,7 +28,16 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
 
 <sub> Machine Learning · Deep Learning · AI · Data Mining · Data Structures & Algorithms · Databases · Operating Systems · Computer Networks · Software Engineering · Statistics & Probability · Big Data · Data Visualization · Web & Mobile Development · IoT</sub>
 
+## 🛠️ Skills
 
+<p align="left">
+    <b>Data Science</b>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square" alt="pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" /> <img src="https://img.shields.io/badge/Statistical_Analysis-16a085?style=flat-square" alt="Statistical Analysis" /><br/>
+    <b>AI / ML</b>  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" alt="TensorFlow, PyTorch, OpenCV, Anaconda" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square" alt="scikit-learn" /> <img src="https://img.shields.io/badge/MediaPipe-ffffff?style=flat-square" alt="MediaPipe" /> <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square" alt="TensorFlow Lite" /> <img src="https://img.shields.io/badge/Explainable_AI-9b59b6?style=flat-square" alt="Explainable AI" /><br/>
+  <b>Languages</b>  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,ts,js,dart,php,r" alt="Python, Java, C, C++, TypeScript, JavaScript, Dart, PHP, R" /><br/>
+  <b>Web & Mobile</b>  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,flutter,kotlin" alt="HTML, CSS, Bootstrap, React, Node.js, Flutter, Kotlin" /><br/>
+  <b>Databases</b>  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,redis,sqlite" alt="PostgreSQL, MySQL, MongoDB, Firebase, Redis, SQLite" /><br/>
+  <b>DevOps & Tools</b>  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vscode,figma" alt="Linux, Docker, Git, GitHub, Bash, VS Code, Figma, Vercel" />  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square" alt="ESP32" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square" alt="Arduino" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square" alt="MQTT" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square" alt="Kafka" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square" alt="Hadoop" /> <img src="https://img.shields.io/badge/PCB_Design-E74C3C?style=flat-square" alt="PCB Design" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square" alt="LaTeX" />
+</p>
 
 ## 🚀 Featured projects
 
@@ -76,7 +85,6 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
 
 <sub></sub>more repos — ML notebooks, big data pipelines, IoT firmware, quantum computing &amp; more in the <a href="https://github.com/Maya-Anber?tab=repositories">repositories tab →</sub>
 
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maya-Anber&show_icons=true&theme=radical&hide_border=true&border_radius=16" alt="Maya's GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=Maya-Anber&hide_border=true&border_radius=16&theme=radical" alt="GitHub streak" height="165" />
@@ -86,10 +94,9 @@ I enjoy building **complete end-to-end systems** that combine software, AI, hard
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maya-Anber&layout=compact&theme=radical&hide_border=true&border_radius=16" alt="Top languages" />
 </p> -->
 
-## 📜 Certifications &amp; awards
+## [📜 Certifications &amp; awards](https://github.com/Maya-Anber?tab=repositories)
 
 - [🐧 **Linux Administration (ITI Alexandria)**](https://drive.google.com/file/d/1HoJlV86X--dinOPzJOaaNWw0PeEidQJc/view) - [⚛️ **Quantum Computing** (QWorld × AIU × AleQCG)](https://drive.google.com/file/d/1TVRJOQoN2V6xDkbKqdMs67DCkH8Zl77a/view) - [📡 **Internet of Things** (FCDS)](https://github.com/Maya-Anber?tab=repositories)
-
 
 ## 📬 Find me
 
